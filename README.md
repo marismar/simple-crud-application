@@ -19,6 +19,6 @@
 </p>
 
 <p align="justify">
-  Durante o curso foi construído uma simples API (Application Programming Interface) com operações básicas de CRUD (Create-Read-Update-Delete), utilizando além do NodeJS e Express, uma coleção de produtos definidos em uma container do mongodb na ferramenta Docker e a biblioteca mongoose para conexão da API com o banco de dados.
+  Durante o curso foi construído uma simples API (Application Programming Interface) com operações básicas de CRUD (Create-Read-Update-Delete), utilizando além do NodeJS e Express, uma coleção de produtos definidos em uma container do mongodb na ferramenta Docker e a biblioteca mongoose para conexão com o banco de dados.
 </p>
 
