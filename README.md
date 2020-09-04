@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
- Exercícios do curso de nodejs, ofertado pela Rocketseat 🚀
+ Exercício do curso de nodejs, ofertado pela Rocketseat 🚀
 </h4>
 
 <p align="center">
