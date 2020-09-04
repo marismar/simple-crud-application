@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/marismarcosta/starter-nodejs/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/marismarcosta/crud-application/blob/master/LICENSE" target="_blank">
     <img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
   </a>
   <a href="https://github.com/marismarcosta">
