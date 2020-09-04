@@ -1,5 +1,5 @@
 <h1 align="center">
-  starter-nodejs
+  CRUD Application
 </h1>
 
 <h4 align="center">
